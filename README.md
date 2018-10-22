@@ -3,7 +3,7 @@ Simple PHP based API key authorization
 
 This zero dependency API key authorization helper is not for production use. It's an example and meant to be useful in allowing one to quickly add simple security when the only other option is having nothing at all.
 
-# Usage
+## Usage
 ```php
 <?php
 
@@ -16,5 +16,5 @@ printf('{"message":"Authorized!"}');
 
 ```
 
-# Disclaimer
+## Disclaimer
 This code makes no gauntees of security. I recommend that you use an established OAuth2.0 implementation over simple API key authorization.
