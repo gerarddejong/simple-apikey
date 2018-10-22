@@ -1,7 +1,7 @@
 # simple-apikey
 Simple PHP based API key authorization
 
-This zero dependency API key authorization helper is not for production use. It's an example and meant to be useful in allowing one to quickly add simple security when the only other option is having nothing at all.
+This zero dependency API key authorization helper is not for production use. It's an example and meant to be useful in allowing one to quickly add simple security when the only other option is having nothing at all - which should never be the case.
 
 ## Usage
 ```php
