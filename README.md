@@ -10,7 +10,7 @@ This zero dependency API key authorization helper is not for production use. It'
 // Simply add this one line to your current php api code
 include(__DIR__ . '/apikeyAuthorization.php');
 
-// Then do what ever your api would normally do
+// Then do whatever your api would normally do
 header("HTTP/1.1 201 OK");
 printf('{"message":"Authorized!"}');
 
